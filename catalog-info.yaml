@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: yys
+  annotations:
+    github.com/project-slug: fateself/yys
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
